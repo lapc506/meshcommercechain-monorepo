@@ -8,11 +8,11 @@ Actualmente el alcance de MeshCommerceChain estará limitado a la **venta de pro
 
 ## Objetivos
 
-## Misión
+### Misión
 
 - Proporcionar las herramientas para que cualquiera pueda tener su propia tienda, o inclusive tner su propio marketplace conectado a múltiples tiendas.
 
-## Visión
+### Visión
 
 - Contribuir al ecosistema del comercio descentralizado, al construir un enjambre de nodos comerciales primarios, secundarios, y terciarios, que conformen una red de marketplaces, tiendas, y puntos de venta móviles y de escritorio para **desafiar el status quo**, y devolver el poder a los comerciantes y a los consumidores finales ante la centralización masiva.
 
