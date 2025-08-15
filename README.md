@@ -116,7 +116,7 @@ No hace falta que sean conexiones Site-2-Site VPN entre nodos primarios, sino si
 
 Para facilitar la integración de la red, existirán inicialmente nodos primarios que sean exclusivamente B2C, y otros que sean exclusivamente B2B. Será responsabilidad de los nodos secundarios tener conexiones separadas a cada nodo primario y éstas podrán decidir si su inventario de venta será combinado o si tendrán dos inventarios (uno dedicado para cada segmento).
 
-Los marketplaces deberán funcionar también como **casas de cambio descentralizadas** (*descentralized exchanges*) que contengan sus propios liquidity pools para facilitar la convertibilidad de los diferentes tokens crypto que puedan procesar a stablecoins, así como manejar su contabilidad interna para el cambio de stablecoins a dinero fiat (dólares americanos inicialmente), así como tener un A-Book y un B-Book para el intercambio de divisas interno entre dólares y otras monedas fiat nacionales (por ejemplo, los colones costarricenses).
+Los marketplaces deberán funcionar también como **casas de cambio descentralizadas** (*descentralized exchanges*) que contengan sus propios liquidity pools para facilitar la convertibilidad de los diferentes tokens crypto que puedan procesar a stablecoins, así como manejar su contabilidad interna para el cambio de stablecoins a dinero fiat (dólares americanos inicialmente), así como **tener un A-Book y un B-Book para funcionar como brókers** que faciliten el intercambio de divisas interno entre dólares y otras monedas fiat nacionales (por ejemplo, los colones costarricenses).
 
 ##### Características
 
